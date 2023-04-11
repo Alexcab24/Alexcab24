@@ -1,7 +1,7 @@
 <div id='header' align='center'>
       <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200">
-      <h1 aling='center'>Hola, soy Alex! 👋</h1>
-  <h3>Soy un desarrollador web junior apasionado por la tecnología y el aprendizaje constante. Me gradué recientemente como técnico en desarrollo y administración de aplicaciones informáticas, y desde entonces he estado dedicando mi tiempo a mejorar mis habilidades en el desarrollo web. Me gusta trabajar en proyectos que desafíen mi creatividad y habilidades de resolución de problemas, y estoy buscando oportunidades para aprender y crecer como desarrollador web.</h3>
+      <h1 aling='center'>Hi, I'm Alex! 👋</h1>
+  <h3>I'm a junior web developer passionate about technology and continuous learning. I recently graduated as a technician in development and administration of computer applications, and since then I have been dedicating my time to improving my skills in web development. I enjoy working on projects that challenge my creativity and problem-solving abilities, and I'm looking for opportunities to learn and grow as a web developer.</h3>
       <div id = 'badges' align = 'center'>
         <a href="https://twitter.com/ale_jsx">
             <img src="https://img.shields.io/twitter/follow/ale_jsx?color=%20blue&logo=twitter&style=for-the-badge" alt="">
@@ -14,7 +14,7 @@
 <hr/>
 
 
-<h3>🔨 Lenguajes y herramientas:</h3>
+<h3>🔨 Languages and tools:</h3>
  <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
