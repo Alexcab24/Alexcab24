@@ -1,6 +1,6 @@
 
 
-      # 💫 About Me:
+## 💫 About Me:
 I'm a junior web developer passionate about technology and continuous learning. I recently graduated as a technician in development and administration of computer applications, and since then I have been dedicating my time to improving my skills in web development. I enjoy working on projects that challenge my creativity and problem-solving abilities, and I'm looking for opportunities to learn and grow as a web developer.
 
 
